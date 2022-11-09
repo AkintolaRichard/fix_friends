@@ -1,4 +1,4 @@
-# Calender_app
+# Calender_app/Event_planner
 
 # Table of contents.</br>
 * Introduction
@@ -14,8 +14,7 @@ Clone the repository with the following command
 *   git clone https://github.com/bolexs/fix_friends.git
 
 ## Pre-requisites
-    python3 -m install fastapi
-    python3 install pip fastapi
+    pip install fastapi
     pip install uvicorn
 
 
@@ -38,6 +37,4 @@ Clone the repository with the following command
 
 
 ## AUTHORS
-* **Justin Akinyi**
-<justakinyi1@gmail.com>
-and many others
+* **HNG Interns**
