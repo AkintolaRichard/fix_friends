@@ -30,6 +30,13 @@ Clone the repository with the following command
     app: the object created inside of main.py with the line app = FastAPI().
     --reload: make the server restart after code changes. Only use for development.
 
+## Requests
+    POST: to create data.
+    GET: to read data.
+    PUT: to update data.
+    DELETE: to delete data.
+
+
 ## AUTHORS
 * **Justin Akinyi**
 <justakinyi1@gmail.com>
