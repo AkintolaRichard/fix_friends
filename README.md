@@ -7,7 +7,8 @@
 * Run the live server
 * AUTHORS
 ## Introduction
-In this project, we are developing full clone of Calender web app.
+    In this project, we are developing full Calender web app.
+    Makes it easier for friends to set up dinner and meetings 
 
 ## Usage
 Clone the repository with the following command
