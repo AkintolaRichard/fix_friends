@@ -1,10 +1,23 @@
 # calender_app
+
+# Table of contents.</br>
+* Introduction
+* Usage
+* Pre-requisites
+* Run the live server
+* AUTHORS
+## Introduction
+In this project, we are developing full clone of Calender web app.
+
 ## Usage
+Clone the repository with the following command
+
 
 ## Pre-requisites
     python3 -m install fastapi
     python3 install pip fastapi
     pip install uvicorn
+
 
 ## Run the live server:
 <p align="center">
