@@ -11,7 +11,7 @@ In this project, we are developing full clone of Calender web app.
 
 ## Usage
 Clone the repository with the following command
-
+*   git clone https://github.com/bolexs/fix_friends.git
 
 ## Pre-requisites
     python3 -m install fastapi
