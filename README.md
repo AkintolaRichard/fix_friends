@@ -1,4 +1,4 @@
-# calender_app
+# Calender_app
 
 # Table of contents.</br>
 * Introduction
@@ -29,3 +29,8 @@ Clone the repository with the following command
     main: the file main.py (the Python "module").
     app: the object created inside of main.py with the line app = FastAPI().
     --reload: make the server restart after code changes. Only use for development.
+
+## AUTHORS
+* **Justin Akinyi**
+<justakinyi1@gmail.com>
+and many others
