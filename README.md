@@ -7,7 +7,9 @@
     pip install uvicorn
 
 ## Run the live server:
-    <img src='./Resources/FastAPI.png'/>
+<p align="center">
+<img src='./Resources/FastAPI.png'/>
+</p>
     
     The command uvicorn main:app refers to:
 
